@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "product_name": "Harrison Vaughn",
+        "category": "5",
+        "price": "797",
+        "stock": "384",
+        "photo": "image_6a8f79070eb36.jpg",
+        "description": "Porro quia rerum eu",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "product_name": "Roanna Robbins",
+        "category": "5",
+        "price": "331",
+        "stock": "991",
+        "photo": "image_6a8f793c84553.jpg",
+        "description": "Suscipit do non quas",
+        "status": "inactive"
+    },
+    {
+        "id": 3,
+        "product_name": "Skyler Scott",
+        "category": "5",
+        "price": "751",
+        "stock": "724",
+        "photo": "image_6a8f7cd13120e.jpg",
+        "description": "Ex sed illo aut quia",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "product_name": "Reuben Romero",
+        "category": "3",
+        "price": "351",
+        "stock": "835",
+        "photo": "image_6a8f8796bc720.jpg",
+        "description": "Aut tempora laborios",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "product_name": "Chiquita Henry",
+        "category": "5",
+        "price": "100",
+        "stock": "739",
+        "photo": "image_6a905117899ac.jpg",
+        "description": "Nisi quasi excepteur",
+        "status": "inactive"
+    },
+    {
+        "id": 6,
+        "product_name": "Keith Herman",
+        "category": "4",
+        "price": "345",
+        "stock": "303",
+        "photo": "image_6a905a1b28c7e.jpg",
+        "description": "Nam iste excepturi l",
+        "status": "inactive"
+    },
+    {
+        "id": 7,
+        "product_name": "Zephania Howard",
+        "category": "1",
+        "price": "908",
+        "stock": "961",
+        "photo": "image_6a9060dd930e3.jpg",
+        "description": "Qui ex cupidatat aut",
+        "status": "inactive"
+    },
+    {
+        "id": 8,
+        "product_name": "Chiquita Mckee",
+        "category": "4",
+        "price": "969",
+        "stock": "773",
+        "photo": "image_6a9062b428a10.jpg",
+        "description": "Quis rem non rerum s",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "product_name": "Amy House",
+        "category": "4",
+        "price": "40",
+        "stock": "655",
+        "photo": "image_6a9073abe744a.jpg",
+        "description": "Perspiciatis quas v",
+        "status": "inactive"
+    },
+    {
+        "id": 10,
+        "product_name": "Audra Edwards",
+        "category": "5",
+        "price": "381",
+        "stock": "239",
+        "photo": "image_6a90820e459a4.jpg",
+        "description": "Deleniti optio ut d",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "product_name": "Harlan Cortez",
+        "category": "4",
+        "price": "149",
+        "stock": "991",
+        "photo": "image_6a9603b8803dd.jpg",
+        "description": "Atque dolorem facili",
+        "status": "inactive"
+    }
+]
