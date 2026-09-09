@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "gogo@mailinator.com",
+        "name": "moh@mailinator.com",
         "email": "tupapabyv@mailinator.com",
         "password": "$2y$10$p\/ozEwGY0VLO4J93mam3R.nBC3rVJ.h1OMeR7w2H4dQmhLwGzC8Z6"
     },
@@ -85,26 +85,26 @@
     },
     {
         "id": 15,
-        "name": "Vana Zakaria",
-        "email": "vanazakaria73@gmail.com",
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
         "password": "$2y$10$7uVYW4tTKRcUC6O8N\/st3.THoXEjXRsM0A0h88as1hnTXxkv651TO"
     },
     {
         "id": 16,
-        "name": "Nirvana Zakaria",
-        "email": "vanazakaria73@gmail.com",
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
         "password": "$2y$10$q64UZowaBiURV9yBd.lTVOD84NxxKUG\/481VuhEce6Lbyh8D7nDcC"
     },
     {
         "id": 17,
-        "name": "Nirvana Zakaria",
-        "email": "vanazakaria73@gmail.com",
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
         "password": "$2y$10$7XGcIoZgqwvykegVXO3XvuPUwzMkPkH6Ktrwa.J52Kfbwp8PEcpuq"
     },
     {
         "id": 18,
-        "name": "Nirvana Zakaria",
-        "email": "vanazakaria73@gmail.com",
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
         "password": "$2y$10$zzVX2svHp8olLJnZ4NKtsO04Zzy91\/yACcoFaEcpKoJgit6YZieBi"
     }
 ]
